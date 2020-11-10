@@ -1,2 +1,2 @@
 # python_ml
-Machine Learning in python
+Machine Learning in python sklearn library
